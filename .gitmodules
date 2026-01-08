@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "vbracket"]
+	path = vbracket
+	url = https://github.com/h20gg702/vbracket
